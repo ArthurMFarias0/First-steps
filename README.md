@@ -1,2 +1,2 @@
-# Primeiros-passos
-Inicio a lógica da programação usando portugol.
+# First-Steps
+Start the programming logic.
